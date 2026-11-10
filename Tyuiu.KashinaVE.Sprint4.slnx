@@ -1,0 +1,42 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task0.V5.Lib/Tyuiu.KashinaVE.Sprint4.Task0.V5.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task0.V5.Test/Tyuiu.KashinaVE.Sprint4.Task0.V5.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task0.V5/Tyuiu.KashinaVE.Sprint4.Task0.V5.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task1.V22.Lib/Tyuiu.KashinaVE.Sprint4.Task1.V22.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task1.V22.Test/Tyuiu.KashinaVE.Sprint4.Task1.V22.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task1.V22/Tyuiu.KashinaVE.Sprint4.Task1.V22.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task2.V6.Lib/Tyuiu.KashinaVE.Sprint4.Task2.V6.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task2.V6.Test/Tyuiu.KashinaVE.Sprint4.Task2.V6.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task2.V6/Tyuiu.KashinaVE.Sprint4.Task2.V6.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task3.V5.Lib/Tyuiu.KashinaVE.Sprint4.Task3.V5.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task3.V5.Test/Tyuiu.KashinaVE.Sprint4.Task3.V5.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task3.V5/Tyuiu.KashinaVE.Sprint4.Task3.V5.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task4.V12.Lib/Tyuiu.KashinaVE.Sprint4.Task4.V12.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task4.V12.Test/Tyuiu.KashinaVE.Sprint4.Task4.V12.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task4.V12/Tyuiu.KashinaVE.Sprint4.Task4.V12.csproj" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task5.V17.Lib/Tyuiu.KashinaVE.Sprint4.Task5.V17.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task5.V17.Test/Tyuiu.KashinaVE.Sprint4.Task5.V17.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task5.V17/Tyuiu.KashinaVE.Sprint4.Task5.V17.csproj" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task6.V25.Lib/Tyuiu.KashinaVE.Sprint4.Task6.V25.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task6.V25.Test/Tyuiu.KashinaVE.Sprint4.Task6.V25.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task6.V25/Tyuiu.KashinaVE.Sprint4.Task6.V25.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task7.V1.Lib/Tyuiu.KashinaVE.Sprint4.Task7.V1.Lib.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task7.V1.Test/Tyuiu.KashinaVE.Sprint4.Task7.V1.Test.csproj" />
+    <Project Path="Tyuiu.KashinaVE.Sprint4.Task7.V1/Tyuiu.KashinaVE.Sprint4.Task7.V1.csproj" />
+  </Folder>
+</Solution>
