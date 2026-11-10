@@ -12,7 +12,7 @@ namespace Tyuiu.KashinaVE.Sprint4.Task7.V1.Test
 
             string value = "135792468";
 
-            Assert.AreEqual(20, ds.Calculate(3, 3, value));
+            Assert.AreEqual(4, ds.Calculate(3, 3, value));
         }
     }
 }

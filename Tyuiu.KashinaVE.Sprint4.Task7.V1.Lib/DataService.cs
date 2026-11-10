@@ -11,18 +11,19 @@ namespace Tyuiu.KashinaVE.Sprint4.Task7.V1.Lib
             {
                 for (int j = 0; j < m; j++)
                 {
+                    
                     matrix[i, j] = int.Parse(value.Substring(i * m + j, 1));
                 }
             }
 
-            int result = 0;
+            int result = 0; 
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < m; j++)
                 {
                     if (matrix[i, j] % 2 == 0)
                     {
-                        result += matrix[i, j];
+                        result++;
                     }
                 }
             }
